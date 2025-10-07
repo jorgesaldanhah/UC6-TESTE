@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36203.30 d17.14
+VisualStudioVersion = 17.14.36203.30
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstacionamentoWeb", "EstacionamentoWeb\EstacionamentoWeb.csproj", "{55013A40-B08C-4513-A1AB-DCAC5F8F9E0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuAplicacao", "MenuAplicacao\MenuAplicacao.csproj", "{81A8B8AD-ED90-4A26-99B9-8D20F1E6056B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{55013A40-B08C-4513-A1AB-DCAC5F8F9E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55013A40-B08C-4513-A1AB-DCAC5F8F9E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55013A40-B08C-4513-A1AB-DCAC5F8F9E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A8B8AD-ED90-4A26-99B9-8D20F1E6056B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A8B8AD-ED90-4A26-99B9-8D20F1E6056B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A8B8AD-ED90-4A26-99B9-8D20F1E6056B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A8B8AD-ED90-4A26-99B9-8D20F1E6056B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

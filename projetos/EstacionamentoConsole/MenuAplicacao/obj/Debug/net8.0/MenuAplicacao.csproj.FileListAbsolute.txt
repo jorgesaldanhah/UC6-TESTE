@@ -1,0 +1,15 @@
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\bin\Debug\net8.0\MenuAplicacao.exe
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\bin\Debug\net8.0\MenuAplicacao.deps.json
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\bin\Debug\net8.0\MenuAplicacao.runtimeconfig.json
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\bin\Debug\net8.0\MenuAplicacao.dll
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\bin\Debug\net8.0\MenuAplicacao.pdb
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.AssemblyInfoInputs.cache
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.AssemblyInfo.cs
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.csproj.CoreCompileInputs.cache
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.sourcelink.json
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.dll
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\refint\MenuAplicacao.dll
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.pdb
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\MenuAplicacao.genruntimeconfig.cache
+C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\MenuAplicacao\obj\Debug\net8.0\ref\MenuAplicacao.dll

@@ -17,121 +17,121 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EstacionamentoWeb
 build_property.RootNamespace = EstacionamentoWeb
-build_property.ProjectDir = C:\Users\jorge.rsquaresma\source\repos\EstacionamentoWeb\EstacionamentoWeb\
+build_property.ProjectDir = C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\EstacionamentoWeb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jorge.rsquaresma\source\repos\EstacionamentoWeb\EstacionamentoWeb
+build_property.MSBuildProjectDirectory = C:\Users\jorge.rsquaresma\Documents\UC6-TESTE\projetos\EstacionamentoConsole\EstacionamentoWeb
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Clientes/Create.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Clientes/Delete.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Clientes/Details.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Clientes/Edit.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Clientes/Index.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Home/Index.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Home/Privacy.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/RegistrosEstacionamentoes/Create.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/RegistrosEstacionamentoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9zRXN0YWNpb25hbWVudG9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/RegistrosEstacionamentoes/Delete.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/RegistrosEstacionamentoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9zRXN0YWNpb25hbWVudG9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/RegistrosEstacionamentoes/Details.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/RegistrosEstacionamentoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9zRXN0YWNpb25hbWVudG9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/RegistrosEstacionamentoes/Edit.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/RegistrosEstacionamentoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9zRXN0YWNpb25hbWVudG9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/RegistrosEstacionamentoes/Index.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/RegistrosEstacionamentoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9zRXN0YWNpb25hbWVudG9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Shared/Error.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Vagas/Create.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Vagas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Vagas/Delete.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Vagas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Vagas/Details.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Vagas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Vagas/Edit.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Vagas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Vagas/Index.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Vagas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Veiculoes/Create.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Veiculoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Veiculoes/Delete.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Veiculoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Veiculoes/Details.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Veiculoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Veiculoes/Edit.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Veiculoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Veiculoes/Index.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Veiculoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/_ViewImports.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/_ViewStart.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.rsquaresma/source/repos/EstacionamentoWeb/EstacionamentoWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/jorge.rsquaresma/Documents/UC6-TESTE/projetos/EstacionamentoConsole/EstacionamentoWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-l09lllajb9

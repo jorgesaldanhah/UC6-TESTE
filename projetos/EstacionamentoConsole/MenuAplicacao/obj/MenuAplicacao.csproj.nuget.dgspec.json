@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jorge.rsquaresma\\Documents\\UC6-TESTE\\projetos\\EstacionamentoConsole\\EstacionamentoWeb\\EstacionamentoWeb.csproj": {}
+    "C:\\Users\\jorge.rsquaresma\\Documents\\UC6-TESTE\\projetos\\EstacionamentoConsole\\MenuAplicacao\\MenuAplicacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jorge.rsquaresma\\Documents\\UC6-TESTE\\projetos\\EstacionamentoConsole\\EstacionamentoWeb\\EstacionamentoWeb.csproj": {
+    "C:\\Users\\jorge.rsquaresma\\Documents\\UC6-TESTE\\projetos\\EstacionamentoConsole\\MenuAplicacao\\MenuAplicacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorge.rsquaresma\\Documents\\UC6-TESTE\\projetos\\EstacionamentoConsole\\EstacionamentoWeb\\EstacionamentoWeb.csproj",
-        "projectName": "EstacionamentoWeb",
-        "projectPath": "C:\\Users\\jorge.rsquaresma\\Documents\\UC6-TESTE\\projetos\\EstacionamentoConsole\\EstacionamentoWeb\\EstacionamentoWeb.csproj",
+        "projectUniqueName": "C:\\Users\\jorge.rsquaresma\\Documents\\UC6-TESTE\\projetos\\EstacionamentoConsole\\MenuAplicacao\\MenuAplicacao.csproj",
+        "projectName": "MenuAplicacao",
+        "projectPath": "C:\\Users\\jorge.rsquaresma\\Documents\\UC6-TESTE\\projetos\\EstacionamentoConsole\\MenuAplicacao\\MenuAplicacao.csproj",
         "packagesPath": "C:\\Users\\jorge.rsquaresma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jorge.rsquaresma\\Documents\\UC6-TESTE\\projetos\\EstacionamentoConsole\\EstacionamentoWeb\\obj\\",
+        "outputPath": "C:\\Users\\jorge.rsquaresma\\Documents\\UC6-TESTE\\projetos\\EstacionamentoConsole\\MenuAplicacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,28 +50,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.20, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.20, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.20, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[8.0.7, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -84,9 +62,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

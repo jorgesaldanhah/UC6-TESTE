@@ -7602,11 +7602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorge.rsquaresma\\source\\repos\\EstacionamentoWeb\\EstacionamentoWeb\\EstacionamentoWeb.csproj",
+      "projectUniqueName": "C:\\Users\\jorge.rsquaresma\\Documents\\UC6-TESTE\\projetos\\EstacionamentoConsole\\EstacionamentoWeb\\EstacionamentoWeb.csproj",
       "projectName": "EstacionamentoWeb",
-      "projectPath": "C:\\Users\\jorge.rsquaresma\\source\\repos\\EstacionamentoWeb\\EstacionamentoWeb\\EstacionamentoWeb.csproj",
+      "projectPath": "C:\\Users\\jorge.rsquaresma\\Documents\\UC6-TESTE\\projetos\\EstacionamentoConsole\\EstacionamentoWeb\\EstacionamentoWeb.csproj",
       "packagesPath": "C:\\Users\\jorge.rsquaresma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorge.rsquaresma\\source\\repos\\EstacionamentoWeb\\EstacionamentoWeb\\obj\\",
+      "outputPath": "C:\\Users\\jorge.rsquaresma\\Documents\\UC6-TESTE\\projetos\\EstacionamentoConsole\\EstacionamentoWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
